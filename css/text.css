@@ -1,0 +1,28 @@
+<style type="text/css">
+			h1{
+				color: purple;
+				font-size: 90px;
+				text-decoration: underline;
+			}	
+
+
+			h2{
+				font-size: 40px;
+			}
+			h2{
+				font-size: 25px;
+				color:teal;
+
+			}
+
+			.small{
+				font-size: 15px;
+			}
+			span{
+				font-style: italic;
+			}
+
+			h2 span{
+				text-decoration: line-through;
+			}
+	</style>
